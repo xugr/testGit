@@ -7,6 +7,8 @@ public class T1 {
 		System.out.println(s);
 		//add 1
 		System.out.println("add1");
+		//add 2
+		System.out.println("add2");
 	}
 
 }
